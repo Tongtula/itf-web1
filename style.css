@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color:rgb(163, 196, 228);
+    color: white;
+    padding: 20px;
+    text-align:center;
+    align-items: center;
+    font-size: 150%;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+    text-align: center;
+}
+
+article {
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:rgb(163, 196, 228);
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
